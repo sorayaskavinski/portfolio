@@ -40,8 +40,8 @@ This repository is my personal portfolio, where I showcase the projects I’ve d
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/soraya-skavinski/])
+- Email: soraya1br@gmail.com
 
 ---
 
