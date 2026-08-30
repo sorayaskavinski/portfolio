@@ -1,6 +1,3 @@
-<img width="1774" height="887" alt="ChatGPT Image 30 de ago  de 2026, 01_33_37" src="https://github.com/user-attachments/assets/66b14e39-2c1f-45db-b014-7ce601952ca9" />
-
-
 # 👩‍💻 Soraya Skavinski – Software Development & Cybercrime Intelligence Portfolio
 
 Welcome! I'm **Soraya Skavinski**, a Police Investigator and Intelligence Specialist with over 9 years of experience in cybercrime, fraud analysis, and digital forensics. I am currently completing my B.S. in Software Development at Brigham Young University-Idaho (GPA 3.84). 
