@@ -32,8 +32,7 @@ This repository showcases my software engineering, web development, and data ana
 | **Chamber of Commerce** | Interactive portal featuring local business directories, spot-light features, and weather integration. | HTML5, CSS3, JavaScript | [Live Demo](https://sorayaskavinski.github.io/chamber/) |
 | **Turbo Performance** | Website built for automotive performance and mechanical service showcases. | HTML5, CSS3, JavaScript | [Live Demo](https://sorayaskavinski.github.io/turboperformance/) |
 | **Travel Planner** | Web app for planning trips, managing itineraries, and leveraging external map integrations. | HTML5, CSS3, JavaScript, APIs | [Live Demo](https://wdd330-travel-planner.netlify.app/) |
-| **Event API** | RESTful backend API with secure user authentication and persistent database management. | Node.js, Express, MongoDB | *Code in Repo* |
-| **PostgreSQL Queries** | Database schema design, data modeling, and structured SQL optimization tasks. | SQL, PostgreSQL, pgAdmin | *Code in Repo* |
+
 
 ---
 
