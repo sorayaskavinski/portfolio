@@ -48,8 +48,8 @@ This repository showcases my software engineering, web development, and data ana
 ## 📬 Contact & Connect
 
 * 💼 **LinkedIn:** [linkedin.com/in/soraya-skavinski](https://www.linkedin.com/in/soraya-skavinski/)
+* 🟢 **HackerNoon:** [hackernoon.com/u/sorayaskavinski](https://hackernoon.com/u/sorayaskavinski)
 * 📧 **Email:** [soraya1br@hotmail.com](mailto:soraya1br@hotmail.com)
-
 ---
 
 ✨ *This portfolio is continuously updated as I build new security, OSINT, and software solutions.*
