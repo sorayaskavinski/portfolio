@@ -1,48 +1,56 @@
-# 👩‍💻 Soraya Skavinski – Software Development Portfolio
+# 👩‍💻 Soraya Skavinski – Software Development & Cybercrime Intelligence Portfolio
 
-Welcome! I'm Soraya Skavinski, a passionate learner transitioning into the tech world.
+Welcome! I'm **Soraya Skavinski**, a Police Investigator and Intelligence Specialist with over 9 years of experience in cybercrime, fraud analysis, and digital forensics. I am currently completing my B.S. in Software Development at Brigham Young University-Idaho (GPA 3.84). 
 
-This repository is my personal portfolio, where I showcase the projects I’ve developed during my studies and practical experiences. Feel free to explore!
+This repository showcases my software engineering, web development, and data analysis projects as I bridge the gap between software development, cybersecurity, and investigative intelligence.
 
 ---
 
 ## 💡 About Me
 
-- 🌎 From Brazil 🇧🇷
-- 🎓 Software Development student at BYU-Pathway Worldwide
-- 💼 Background in customer service, English teaching, and public safety
-- 🔍 Currently focusing on: **Web Development, APIs, Databases, and Digital Forensics**
-- 🎯 Goal: Become a skilled developer and contribute to tech projects that matter
+* 🌎 **Location:** São Paulo, Brazil 🇧🇷
+* 🎓 **Education:** B.S. in Software Development at BYU-Idaho (BYU-Pathway Worldwide)
+* 💼 **Background:** Police Intelligence Analyst, Fraud & Cybercrime Investigations, Tech Support Leadership
+* 🔍 **Current Focus:** Python, Web Development, REST APIs, Databases, OSINT Tooling, and Digital Forensics
+* 🎯 **Goal:** Combine software engineering with intelligence and security to build high-impact tech, fraud mitigation, and threat-detection tools.
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Turbo Manutenções](https://github.com/your-username/turbo-manutencao) | Website for handyman and home repair services | HTML, CSS, JavaScript |
-| [Skavinski Steel](https://github.com/your-username/skavinski-steel) | Construction company landing page (steel frame) | HTML, CSS, JS |
-| [Event API](https://github.com/your-username/event-manager-api) | RESTful API with authentication and MongoDB | Node.js, Express, MongoDB |
-| [Travel Planner](https://github.com/your-username/travel-planner) | Plan trips using APIs and map integration | JavaScript, APIs, Mapbox |
-| [PostgreSQL Queries](https://github.com/your-username/sql-tasks) | SQL practice tasks using pgAdmin | SQL, PostgreSQL |
+### 🛠️ Software & Data Engineering
+
+| Project | Description | Tech Stack | Live Demo / Details |
+| :--- | :--- | :--- | :--- |
+| **Business Performance Dashboard** | Interactive business analytics dashboard. Features complete local setup documentation in the README. | Python | *Code in Repo* |
+| **OSINT Fraud Detection App** *(Upcoming)* | An upcoming open-source intelligence app designed to evaluate websites and phone numbers to help users detect potential fraud and malicious activity. | Python, APIs, OSINT Frameworks | *In Development* |
+
+### 🌐 Full-Stack & Web Development
+
+| Project | Description | Tech Stack | Live Demo / Link |
+| :--- | :--- | :--- | :--- |
+| **Chamber of Commerce** | Interactive portal featuring local business directories, spot-light features, and weather integration. | HTML5, CSS3, JavaScript | [Live Demo](https://sorayaskavinski.github.io/chamber/) |
+| **Turbo Performance** | Website built for automotive performance and mechanical service showcases. | HTML5, CSS3, JavaScript | [Live Demo](https://sorayaskavinski.github.io/turboperformance/) |
+| **Travel Planner** | Web app for planning trips, managing itineraries, and leveraging external map integrations. | HTML5, CSS3, JavaScript, APIs | [Live Demo](https://wdd330-travel-planner.netlify.app/) |
+| **Event API** | RESTful backend API with secure user authentication and persistent database management. | Node.js, Express, MongoDB | *Code in Repo* |
+| **PostgreSQL Queries** | Database schema design, data modeling, and structured SQL optimization tasks. | SQL, PostgreSQL, pgAdmin | *Code in Repo* |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Core Competencies
 
-- **Languages:** JavaScript, SQL, HTML, CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code, Figma, pgAdmin
-- **Knowledge:** REST APIs, Authentication, Data Modeling
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/soraya-skavinski/
-- Email: soraya1br@gmail.com
+* **Languages:** Python, JavaScript, SQL (PostgreSQL), HTML5, CSS3
+* **Backend & Databases:** Node.js, Express.js, MongoDB, PostgreSQL
+* **Security & Intelligence:** OSINT (Open-Source Intelligence), Cybercrime Investigation, Fraud Mitigation, Digital Forensics, Anti-Money Laundering (AML)
+* **Tools & Environment:** Git, GitHub, VS Code, pgAdmin, Figma
 
 ---
 
-> ✨ This portfolio is a work in progress and will be updated as I grow and learn more in tech!
+## 📬 Contact & Connect
+
+* 💼 **LinkedIn:** [linkedin.com/in/soraya-skavinski](https://www.linkedin.com/in/soraya-skavinski/)
+* 📧 **Email:** [soraya1br@hotmail.com](mailto:soraya1br@hotmail.com)
+
+---
+
+✨ *This portfolio is continuously updated as I build new security, OSINT, and software solutions.*
